@@ -1,0 +1,16 @@
+.row{
+    margin-top: 50px;
+    margin-left: 250px;
+    justify-content: center;
+    border-radius: 20px;
+    background: gray;
+    position: relative;
+    width: 50%;
+
+}
+.form-label{
+    color: white;
+}
+.button{
+    width: 50px;
+}
